@@ -29,7 +29,7 @@ public class MyCalculator {
 	}
 	public void display3()
 	{
-		System.out.println("Welcome GFG3");
+		System.out.println("Welcome GFG03");
 	}
 
 	public static void main(String[] args) {
