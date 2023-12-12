@@ -24,9 +24,9 @@ pipeline {
 				bat 'mvn install'
 				}
 			}	
-		stage ('Stage Final: Build Success'){
+		stage ('Stage Final: Build it Success'){
 			steps {
-				echo  'Build Success!'
+				echo  'Build it Success!'
 				}
 			}
 		}
